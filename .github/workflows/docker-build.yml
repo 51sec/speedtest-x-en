@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
       
 env:
-  APP_NAME: speedtest-x
+  APP_NAME: speedtest-x-en
 
 jobs:
   main:
