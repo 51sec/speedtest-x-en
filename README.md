@@ -7,10 +7,6 @@ This project is an extension of [LibreSpeed](https://github.com/librespeed/speed
 speedtest-x uses file datebase to save speedtest results from various users. Thus you can check out different results from various countries/regions.
 
 
-[中文文档](https://github.com/BadApple9/speedtest-x/blob/master/README_CN.md)
-
-[Join Telegram group](https://t.me/xiaozhu5)
-
 <sup>**❗ Warning**：Based on the principle of web speedtest, this program will generate garbage files for tester to download them to calculate the downstream network bandwidth from server to local. There may be abuses by malicious tester in a certain extent, after shared your speedtest website in public, please pay attention to the condition of your server traffic to avoid an traffic overload.</sup>
 
 ## Features and extensions
