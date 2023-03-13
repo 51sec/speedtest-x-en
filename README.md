@@ -18,8 +18,8 @@ speedtest-x uses file datebase to save speedtest results from various users. Thu
 ## Quick start
 
 #### <img src='https://img.icons8.com/fluency/512/docker.png' width="2%"></img> Deploy by Docker (Supported platforms: AMD64/ARM64)
-> 1. Pull [Image](https://hub.docker.com/r/badapple9/speedtest-x) `docker pull badapple9/speedtest-x`
-> 2. Run container `docker run -d -p 9001:80 -it badapple9/speedtest-x` (💡 See more parameters [Here](https://github.com/BadApple9/speedtest-x/wiki/Docker-deploy))
+> 1. Pull [Image](https://hub.docker.com/r/johnyan2/speedtest-x-en) `docker pull johnyan2/speedtest-x-en`
+> 2. Run container `docker run -d -p 9001:80 -it johnyan2/speedtest-x` (💡 See more parameters [Here](https://github.com/badapple9/speedtest-x/wiki/Docker-deploy))
 >3. Open `{your_ip}:9001`
 
 -------
