@@ -14,6 +14,10 @@ speedtest-x uses file datebase to save speedtest results from various users. Thu
  - No MySQL, but lightweight file database
  - Use [ip.sb](https://ip.sb) to get IP info by default
 
+## Test Sites:
+ - ⚡https://fast.51sec.org
+ - ⚡https://speed.51sec.org (test/test)
+
 ## Quick start
 
 #### <img src='https://img.icons8.com/fluency/512/docker.png' width="2%"></img> Deploy by Docker (Supported platforms: AMD64/ARM64)
